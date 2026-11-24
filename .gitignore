@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+dist/
+.pytest_cache/
+.idea/
+.vscode/
+*.deb
